@@ -2,12 +2,12 @@
 A list of Medical imaging datasets. Source : https://sites.google.com/site/aacruzr/image-datasets
 An additional, possibly overlapping list can be found at : https://github.com/beamandrew/medical-data
 
-##Image Datasets
+## Image Datasets
 
 * Current state of the art of most used computer vision datasets: Who is the best at X? http://rodrigob.github.io/are_we_there_yet/build/
 * Grand Challenges in Medical Image Analysis http://www.grand-challenge.org/index.php/Main_Page
 
-###Multimodal databases
+### Multimodal databases
 
 * Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR) http://www.civm.duhs.duke.edu/devatlas/ http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * LONI image data archive https://ida.loni.usc.edu/services/Menu/IdaData.jsp?project=
@@ -22,7 +22,7 @@ An additional, possibly overlapping list can be found at : https://github.com/be
 * Mammography Image Databases 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided http://marathon.csee.usf.edu/Mammography/Database.html
 * NLM HyperDoc Visible Human Project color, CAT and MRI image samples - over 30 images http://www.nlm.nih.gov/research/visible/visible_human.html
 
-###Histology and Histopathology (H&E, IHQ, ...)
+### Histology and Histopathology (H&E, IHQ, ...)
 
 * The Histology Image Dataset (histologyDS) http://www.informed.unal.edu.co/histologyDS
 * The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
@@ -56,7 +56,7 @@ An additional, possibly overlapping list can be found at : https://github.com/be
 * DRIVE: Digital Retinal Images for Vessel Extraction http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth)
 * El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
 
-###Computer Vision
+### Computer Vision
 
 * The Street View House Numbers (SVHN) Dataset http://ufldl.stanford.edu/housenumbers/
 * The PASCAL Object Recognition Database Collection http://pascallin.ecs.soton.ac.uk/challenges/VOC/databases.html
@@ -68,7 +68,7 @@ An additional, possibly overlapping list can be found at : https://github.com/be
 * STL-10 http://www.stanford.edu/~acoates//stl10/
 * The USC-SIPI Image Database is a collection of digitized images. (Textures, Aerials, Miscellaneous, Sequences) http://sipi.usc.edu/DATABASE/database.php
 
-###Databases you can use for bechmarking 
+### Databases you can use for bechmarking 
 
 * http://peipa.essex.ac.uk/benchmark/databases/
 * http://mulan.sourceforge.net/datasets-mlc.html
