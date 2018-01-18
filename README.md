@@ -57,18 +57,6 @@
 * DRIVE: Digital Retinal Images for Vessel Extraction http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth)
 * El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
 
-### Computer Vision
-
-* The Street View House Numbers (SVHN) Dataset http://ufldl.stanford.edu/housenumbers/
-* The PASCAL Object Recognition Database Collection http://pascallin.ecs.soton.ac.uk/challenges/VOC/databases.html
-* ImageNet http://www.image-net.org/
-* Motion-based Segmentation and Recognition Dataset http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
-* The AR Face Database http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html
-* The Extended M2VTS Database (XM2VTSDB) http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/
-* CBCL Face Database http://cbcl.mit.edu/software-datasets/FaceData2.html
-* STL-10 http://www.stanford.edu/~acoates//stl10/
-* The USC-SIPI Image Database is a collection of digitized images. (Textures, Aerials, Miscellaneous, Sequences) http://sipi.usc.edu/DATABASE/database.php
-
 ### Databases you can use for bechmarking 
 
 * http://peipa.essex.ac.uk/benchmark/databases/
