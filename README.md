@@ -11,7 +11,8 @@
 
 ### Multimodal databases
 
-* Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR) http://www.civm.duhs.duke.edu/devatlas/ http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
+* Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR) http://www.civm.duhs.duke.edu/devatlas/ 
+user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * LONI image data archive https://ida.loni.usc.edu/services/Menu/IdaData.jsp?project=
 * Radiology (Ultrasound, Mammographs, X-Ray, CT, MRI, fMRI, etc.)
 * COllaborative Informatics and Neuroimaging Suite (COINS) https://coins.mrn.org/
@@ -29,29 +30,27 @@
 * The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
 * International Cancer Genome Consortium http://icgc.org, (Data portal) http://dcc.icgc.org/
 * Stanford Tissue Microarray Database (TMA) http://tma.im
-* Cancer Image Database (caIMAGE) http://cancerimages.nci.nih.gov/caIMAGE/
 * DPA’s Whole Slide Imaging Repository https://digitalpathologyassociation.org/whole-slide-imaging-repository
-* Atlas of bleast Histology http://www.webmicroscope.net/atlases/breast/brcatlas_start.asp
 * ITK Analysis of Large Histology Datasets http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets
 * Histology Photo Album http://www.histology-world.com/photoalbum/thumbnails.php?album=52
 * Slide Library of Virtual pathology, University of Leeds http://www.virtualpathology.leeds.ac.uk/
-* Tissue Acquisition and Banking Services (TABS) of the NYU Experimental Pathology Core Facilities http://pathology.med.nyu.edu/research/core-laboratories/tissue-banking
-* Aperio Images http://images2.aperio.com/
+* Aperio Images http://images.aperio.com/
 * HAPS Histology Image Database http://hapshistology.wikifoundry.com/
 * Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence, etc.)
 * BDGP images from the FlyExpress database www.flyexpress.net
 * The UCSB Bio-Segmentation Benchmark dataset http://www.bioimage.ucsb.edu/research/biosegmentation
-* Pap Smear database http://labs.fme.aegean.gr/decision/downloads
-* BIICBU Biological Image Repository http://ome.grc.nia.nih.gov/iicbu2008/
-* RNAi dataset http://ome.grc.nia.nih.gov/iicbu2008/rnai/index.html
-* Chinese Hamster Ovary cells (CHO) dataset http://ome.grc.nia.nih.gov/iicbu2008/hela/index.html#cho
+* Pap Smear database http://mde-lab.aegean.gr/index.php/downloads
+
+
+* Genome RNAi dataset http://www.genomernai.org/
+* Chinese Hamster Ovary cells (CHO) dataset http://www.chogenome.org/data.html
 * Locate Endogenus mouse sub-cellular organelles (END) databaset http://locate.imb.uq.edu.au/
-* 2D HeLa dataset (HeLa) datgaset http://ome.grc.nia.nih.gov/iicbu2008/hela/index.html
+* 2D HeLa dataset (HeLa) dataset https://ome.grc.nia.nih.gov/iicbu2008/hela/index.html
 * Allen Brain Atlas http://www.brain-map.org/
 * 1000 Functional Connectomes Project http://fcon_1000.projects.nitrc.org/
-* The Cell Centered Database (CCDB) http://ccdb.ucsd.edu/index.shtm
-* The Encyclopedia of DNA Elements (ENCODE) http://genome.ucsc.edu/ENCODE/
-* http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001046
+* The Cell Centered Database (CCDB) https://library.ucsd.edu/dc/collection/bb5940732k
+* The Encyclopedia of DNA Elements (ENCODE) http://genome.ucsc.edu/ENCODE/ 
+user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001046
 * The Human Protein Atlas: http://www.proteinatlas.org/
 * DRIVE: Digital Retinal Images for Vessel Extraction http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth)
 * El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
@@ -61,7 +60,5 @@
 * http://peipa.essex.ac.uk/benchmark/databases/
 * http://mulan.sourceforge.net/datasets-mlc.html
 * https://archive.ics.uci.edu/ml/datasets.html
-* http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/
-* Benchmark Data Sets for Highly Imbalanced Binary Classification http://www.cs.gsu.edu/~zding/research/benchmark-data.php
 * Datasets reporting formats for pathologists http://www.rcpath.org/publications-media/publications/datasets
 * DermNet - Skin disease atlas (23 image classes and 23,000 images): http://www.dermnet.com/
