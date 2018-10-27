@@ -3,12 +3,6 @@
 * A list of Medical imaging datasets. Source : https://sites.google.com/site/aacruzr/image-datasets
 * An additional, possibly overlapping list can be found at : https://github.com/beamandrew/medical-data
 
-## State of the art / Challenges
-
-* Current state of the art of most used computer vision datasets: Who is the best at X? http://rodrigob.github.io/are_we_there_yet/build/
-* Grand Challenges in Medical Image Analysis https://grand-challenge.org/
-* Challenges in global health and development problems https://grandchallenges.org/#/map
-
 ### Multimodal databases
 
 * Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR) http://www.civm.duhs.duke.edu/devatlas/ 
@@ -65,3 +59,9 @@ user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.100
 * https://archive.ics.uci.edu/ml/datasets.html
 * Datasets reporting formats for pathologists http://www.rcpath.org/publications-media/publications/datasets
 * DermNet - Skin disease atlas (23 image classes and 23,000 images): http://www.dermnet.com/
+
+### State of the art / Challenges
+
+* Grand Challenges in Medical Image Analysis https://grand-challenge.org/
+* Challenges in global health and development problems https://grandchallenges.org/#/map
+* Current state of the art of most used computer vision datasets: Who is the best at X? http://rodrigob.github.io/are_we_there_yet/build/
