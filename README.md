@@ -25,7 +25,7 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
 * International Cancer Genome Consortium http://icgc.org, (Data portal) http://dcc.icgc.org/
 * Stanford Tissue Microarray Database (TMA) http://tma.im
-* MITOS dataset http://ipal.cnrs.fr/ICPR2012/
+* MITOS dataset http://www.ipal.cnrs.fr/event/icpr-2012
 * Cancer Image Database (caIMAGE) https://emice.nci.nih.gov/caimage
 * DPA’s Whole Slide Imaging Repository https://digitalpathologyassociation.org/whole-slide-imaging-repository
 * ITK Analysis of Large Histology Datasets http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets
