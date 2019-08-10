@@ -56,7 +56,7 @@ user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.100
 
 * http://peipa.essex.ac.uk/benchmark/databases/
 * http://mulan.sourceforge.net/datasets-mlc.html
-* https://archive.ics.uci.edu/ml/datasets.html
+* https://archive.ics.uci.edu/ml/datasets.php
 * Datasets reporting formats for pathologists http://www.rcpath.org/publications-media/publications/datasets
 * DermNet - Skin disease atlas (23 image classes and 23,000 images): http://www.dermnet.com/
 
