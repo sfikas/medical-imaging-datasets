@@ -41,7 +41,7 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 
 * Genome RNAi dataset http://www.genomernai.org/
 * Chinese Hamster Ovary cells (CHO) dataset http://www.chogenome.org/data.html
-* Locate Endogenus mouse sub-cellular organelles (END) databaset http://locate.imb.uq.edu.au/
+* Locate Endogenus mouse sub-cellular organelles (END) database http://locate.imb.uq.edu.au/
 * 2D HeLa dataset (HeLa) dataset https://ome.grc.nia.nih.gov/iicbu2008/hela/index.html
 * Allen Brain Atlas http://www.brain-map.org/
 * 1000 Functional Connectomes Project http://fcon_1000.projects.nitrc.org/
@@ -50,9 +50,9 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001046
 * The Human Protein Atlas: http://www.proteinatlas.org/
 * DRIVE: Digital Retinal Images for Vessel Extraction http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth)
-* El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
+* El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
 
-### Databases you can use for bechmarking 
+### Databases you can use for benchmarking 
 
 * http://peipa.essex.ac.uk/benchmark/databases/
 * http://mulan.sourceforge.net/datasets-mlc.html
