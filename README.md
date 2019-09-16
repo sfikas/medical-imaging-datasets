@@ -37,6 +37,8 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * BDGP images from the FlyExpress database www.flyexpress.net
 * The UCSB Bio-Segmentation Benchmark dataset http://www.bioimage.ucsb.edu/research/biosegmentation
 * Pap Smear database http://mde-lab.aegean.gr/index.php/downloads
+* Histology (CIMA) dataset http://cmp.felk.cvut.cz/~borovji3/?page=dataset
+* ANHIR dataset https://anhir.grand-challenge.org/
 
 
 * Genome RNAi dataset http://www.genomernai.org/
@@ -65,3 +67,4 @@ user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.100
 * Grand Challenges in Medical Image Analysis https://grand-challenge.org/
 * Challenges in global health and development problems https://grandchallenges.org/#/map
 * Current state of the art of most used computer vision datasets: Who is the best at X? http://rodrigob.github.io/are_we_there_yet/build/
+* Automatic Non-rigid Histological Image Registration (ANHIR) challenge https://anhir.grand-challenge.org/
