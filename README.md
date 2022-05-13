@@ -56,6 +56,7 @@ user guide: http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.100
 * DRIVE: Digital Retinal Images for Vessel Extraction http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth)
 * El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of hi-res of studies taken from Gastrointestinal Video endoscopy http://www.gastrointestinalatlas.com/
 * BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset, https://bupt-ai-cz.github.io/BCNB/, https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
+* BCI: Breast Cancer Immunohistochemical Image Generation Dataset, https://bupt-ai-cz.github.io/BCI/, https://github.com/bupt-ai-cz/BCI
 
 ### Databases you can use for benchmarking 
 
