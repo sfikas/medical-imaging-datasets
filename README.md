@@ -24,6 +24,7 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * [[Facebook AI + NYU FastMRI](https://fastmri.org/dataset/)] includes two types of MRI scans: knee MRIs and the brain (neuro) MRIs, containing training, validation, and masked test sets. Also includes PyTorch data loaders in open-sourced [GitHub Repository](https://github.com/facebookresearch/fastMRI/)
 * BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset, https://bupt-ai-cz.github.io/BCNB/, https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
 * National Cancer Institute Imaging Data Commons (IDC) https://portal.imaging.datacommons.cancer.gov/explore/
+* VinDr-datasets : large-scale clinical datasets of multiple imaging modalities https://vindr.ai/datasets
 
 ### Histology, Histopathology (H&E, IHQ) & Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence)
 
