@@ -5,6 +5,8 @@
 
 ### Multimodal databases
 
+* [EchoXFlow](https://huggingface.co/datasets/Ahus-AIM/EchoXFlow) — 35,377 recordings from 666 clinical examinations with native beamspace B-mode, Doppler and synchronized ECG; 2D contours and 3D LV meshes on annotated subsets. CC BY-NC-SA 4.0. [Paper](https://arxiv.org/abs/2605.05447) · [Code](https://github.com/Ahus-AIM/EchoXFlow)
+
 * Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR) http://www.civm.duhs.duke.edu/devatlas/ 
 user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * LONI image data archive https://ida.loni.usc.edu/services/Menu/IdaData.jsp?project=
